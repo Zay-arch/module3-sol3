@@ -1,6 +1,6 @@
 body {
     font-size: 14px;
-    color: white;
+    color: ffffff;
     background-color: #5f4d54;
     font-family: 'Verdana', sans-serif;
 }
@@ -37,7 +37,7 @@ body {
     margin-top: 10px;
 }
 #nav-list a {
-    color: #9a7381;
+    color: #ffffff;
     text-align: center;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
