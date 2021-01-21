@@ -41,7 +41,7 @@ body {
     text-align: center;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #fb5b97;
+    border: 1px solid #e2e1e6;
 }
 .navbar-header button.navbar-toggle {
     clear: both;
@@ -50,7 +50,7 @@ body {
 
 
 #nav-list li p {
-    background: #795af1;
+    background: #e2e1e6;
 }
 
 /* END HEADER */
