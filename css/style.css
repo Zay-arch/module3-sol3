@@ -5,14 +5,10 @@ body {
     font-family: 'Verdana', sans-serif;
 }
 
-/** HEADER **/
 #header-nav {
     background-color: #e8c574;
     border-radius: 0;
     border: 0;
-}
-h2 .text-center {
-    color: #ffffff;
 }
 .navbar-brand {
     padding-top: 25px;
