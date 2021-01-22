@@ -12,7 +12,7 @@ body {
     border: 0;
 }
 .text-center {
-color: #ffffff;
+    text-color: #ffffff;
 }
 .navbar-brand {
     padding-top: 25px;
