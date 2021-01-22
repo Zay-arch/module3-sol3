@@ -11,8 +11,8 @@ body {
     border-radius: 0;
     border: 0;
 }
-.text-center {
-    text-color: #ffffff;
+h2 .text-center {
+    color: #ffffff;
 }
 .navbar-brand {
     padding-top: 25px;
